@@ -1,6 +1,8 @@
 body {
   text-align: center;
   background-color: #011F3F;
+  margin: 0%;
+  box-sizing: border-box;
 }
 
 #level-title {
